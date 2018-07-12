@@ -2,6 +2,7 @@
   "name": "jsplumb-npm",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "dagre": "^0.8.2",
     "jsplumb": "^2.7.9",
